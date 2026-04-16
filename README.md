@@ -24,7 +24,10 @@ Bash
 
 python3 model_g_2d_xy_safe_plus_vort__1c.py --reset --rotseed --quiver --vortlim 0.2
 
-I can also paste a cleaned __1c version next, where I rename all the remaining __1b labels in the header and output names.
+I can also paste a cleaned __1c version next, where I rename all the remaining __1b labels 
+
+in the header and output names.
+
 ------------------------------------
 
 Note for Brendan only:
